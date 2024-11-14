@@ -8,3 +8,8 @@ warp://188.114.99.148:500?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#speed3
 warp://162.159.192.231:878?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#speed2
 warp://162.159.192.231:878?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://188.144.97.248:500?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4
 warp://188.114.97.206:500?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://188.114.99.148:500?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#first
+warp://162.159.195.227:2506?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://188.114.99.44:1180?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#amir
+warp://162.159.195.88:1180?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4&&detour=warp://162.159.192.13:1180?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#byamir
+warp://188.114.99.44:1180?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#speedy1
+warp://162.159.195.227:2506?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#speed2
+warp://162.159.195.157:1180?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#speed3
